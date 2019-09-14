@@ -6,7 +6,6 @@ This repository accompanies the manusript by Ota et al., (2019), accepted in Sci
 The data structure is as follows:
 
 Decision task
-
 <li>bdt_optAim: optimal aim point in each block</li>
 <li>bdt_optEG: maximized expected gain</li>
 <li>sigma: standard deviation of subject's endpoint</li>
@@ -15,11 +14,8 @@ Decision task
 <li>EG: expected gain, subject's total score / 50 trials</li>
 <li>to: number of timeout trials</li>
 
-
-
-
-<p>Full information task</p>
-
+<br>
+Full information task
 <li>dot_noise: standard deviation used in a sample from a Gaussian distribution</li>
 <li>dot_optAim: theoretical optimal setting</li>
 <li>dot_endpoint: subjective optimal setting in each trial</li>
