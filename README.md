@@ -14,7 +14,8 @@ Decision task
 <li>miss: number of mistrials</li>
 <li>EG: expected gain, subject's total score / 50 trials</li>
 <li>to: number of timeout trials</li>
-<ul>
+
+
 Full information task
 
 <li>dot_noise: standard deviation used in a sample from a Gaussian distribution</li>
