@@ -16,7 +16,9 @@ Decision task
 <li>to: number of timeout trials</li>
 
 
-Full information task
+
+
+<p>Full information task</p>
 
 <li>dot_noise: standard deviation used in a sample from a Gaussian distribution</li>
 <li>dot_optAim: theoretical optimal setting</li>
