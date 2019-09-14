@@ -6,20 +6,20 @@ This repository accompanies the manusript by Ota et al., (2019), accepted in Sci
 The data structure is as follows:
 
 Decision task
-bdt_optAim: optimal aim point in each block 
-bdt_optEG: maximized expected gain 
-sigma: standard deviation of subject's endpoint 
-aimpoint: subject's mean endpoint 
-miss: number of mistrials
-EG: expected gain, subject's total score / 50 trials 
-to: number of timeout trials
+<li>bdt_optAim: optimal aim point in each block</li>
+<li>bdt_optEG: maximized expected gain</li>
+<li>sigma: standard deviation of subject's endpoint</li>
+<li>aimpoint: subject's mean endpoint</li>
+<li>miss: number of mistrials</li>
+<li>EG: expected gain, subject's total score / 50 trials</li>
+<li>to: number of timeout trials</li>
 
 Full information task
-dot_noise: standard deviation used in a sample from a Gaussian distribution
-dot_optAim: theoretical optimal setting 
-dot_endpoint: subjective optimal setting in each trial 
-Variables of dotsL, gauss, gaussL, uni, and uniL have the same structure above. 
-L means a wide width condition. gauss and uni indicate a Gaussian probability density function and uniform PDF, respectively. 
+<li>dot_noise: standard deviation used in a sample from a Gaussian distribution</li>
+<li>dot_optAim: theoretical optimal setting</li>
+<li>dot_endpoint: subjective optimal setting in each trial</li>
+<li>Variables of dotsL, gauss, gaussL, uni, and uniL have the same structure above.</li>
+<li>L means a wide width condition. gauss and uni indicate a Gaussian probability density function and uniform PDF, respectively.</li>
 
 # Reference
 Ota, K., Shinya, M., Maloney, L. T., & Kudo, K. (in press). Sub-optimality in motor planning is not improved by explicit observation of motor uncertainty. Scientific Reports.
