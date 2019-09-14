@@ -1,6 +1,6 @@
 # Sub-optimality in motor planning is not improved by explicit observation of motor uncertainty
 
-This repository accompanies the manusript by Ota et al., (2019), accepted in Scientific Reports. It includes subject's data and the scripts for generating figures reported in the paper.
+This repository accompanies the manusript by Ota et al., (2019), accepted in <em>Scientific Reports<em>. It includes subject's data and the scripts for generating figures reported in the paper.
 
 # Overview of the data structure
 The data structure is as follows:
