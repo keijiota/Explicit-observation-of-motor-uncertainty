@@ -24,4 +24,4 @@ L means a wide width condition. <br>
 gauss and uni indicate a Gaussian probability density function and uniform PDF, respectively.
 
 # Reference
-Ota, K., Shinya, M., Maloney, L. T., & Kudo, K. (in press). Sub-optimality in motor planning is not improved by explicit observation of motor uncertainty. Scientific Reports.
+Ota, K., Shinya, M., Maloney, L. T., & Kudo, K. (2019). Sub-optimality in motor planning is not improved by explicit observation of motor uncertainty. Scientific Reports, 9:14850. 
