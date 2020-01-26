@@ -23,8 +23,7 @@ Variables of dotsL, gauss, gaussL, uni, and uniL have the same structure above.
 L means a wide width condition. <br>
 gauss and uni indicate a Gaussian probability density function and uniform PDF, respectively.
 
-<br>
-If you have any questions, please let me know. 
+<br>If you have any questions, please let me know. 
 
 # Reference
 Ota, K., Shinya, M., Maloney, L. T., & Kudo, K. (2019). Sub-optimality in motor planning is not improved by explicit observation of motor uncertainty. Scientific Reports, 9:14850. 
