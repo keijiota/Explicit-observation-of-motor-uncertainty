@@ -23,6 +23,8 @@ Variables of dotsL, gauss, gaussL, uni, and uniL have the same structure above.
 L means a wide width condition. <br>
 gauss and uni indicate a Gaussian probability density function and uniform PDF, respectively.
 
+
+<br>
 If you have any questions, please let me know. 
 
 # Reference
